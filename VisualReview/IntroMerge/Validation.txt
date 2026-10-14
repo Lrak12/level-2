@@ -1,0 +1,83 @@
+Intro merge validation
+PASS: Level 2 remains enabled
+PASS: Level 3 remains enabled
+PASS: No missing scripts in Intro
+PASS: New Game targets level 2
+PASS: Menu event system present
+PASS: Button wired: New Game
+PASS: Button callback resolves: New Game
+PASS: Button callback resolves: New Game
+PASS: Button wired: Quit Game
+PASS: Button callback resolves: Quit Game
+PASS: Button callback resolves: Quit Game
+PASS: Button wired: BackButton
+PASS: Button callback resolves: BackButton
+PASS: Button callback resolves: BackButton
+PASS: Button wired: BackButton
+PASS: Button callback resolves: BackButton
+PASS: Button callback resolves: BackButton
+PASS: Button wired: Options
+PASS: Button callback resolves: Options
+PASS: Button callback resolves: Options
+PASS: Button wired: How To Play
+PASS: Button callback resolves: How To Play
+PASS: Button callback resolves: How To Play
+PASS: Font resolves: SFXLabel
+PASS: Font resolves: MusicLabel
+PASS: Font resolves: Text (TMP)
+PASS: Font resolves: InstructionText
+PASS: Font resolves: Title
+PASS: Font resolves: OptionsTitle
+PASS: Font resolves: HowToPlayTitle
+PASS: Font resolves: Instruct
+PASS: Font resolves: Subtitle
+PASS: Font resolves: Text (TMP)
+PASS: Animated background artwork resolves
+PASS: Menu script available
+PASS: MainMenu.m_Script resolves
+PASS: MainMenu.mainMenuPanel resolves
+PASS: MainMenu.optionsPanel resolves
+PASS: MainMenu.howToPlayPanel resolves
+PASS: Menu script available
+PASS: UIAudio.m_Script resolves
+PASS: UIAudio.audioSource resolves
+PASS: UIAudio.hoverSound resolves
+PASS: UIAudio.clickSound resolves
+PASS: Menu script available
+PASS: OptionsMenu.m_Script resolves
+PASS: OptionsMenu.musicSource resolves
+PASS: OptionsMenu.sfxSource resolves
+PASS: No missing scripts in Stage2_Battlefield
+PASS: Player resolves in Stage2_Battlefield
+PASS: Game session resolves in Stage2_Battlefield
+PASS: Level 2 still leads to level 3
+PASS: No missing scripts in Stage3_AshenCitadel
+PASS: Player resolves in Stage3_AshenCitadel
+PASS: Game session resolves in Stage3_AshenCitadel
+PASS: Build order: Intro -> Stage2_Battlefield -> Stage3_AshenCitadel
+PASS: Play starts in Intro
+PASS: Options opens
+PASS: Options closes
+PASS: How to Play opens
+PASS: How to Play closes
+PASS: Menu restores time and cursor
+PASS: Backdrop animates
+PASS: Loaded Assets/Scenes/Stage2_Battlefield.unity
+PASS: Session initialized
+PASS: Player and camera initialized
+PASS: Gameplay time is running
+PASS: Intro unloads after New Game
+PASS: Menu audio unloads after New Game
+PASS: Level 2 pauses
+PASS: Loaded Assets/Scenes/Stage2_Battlefield.unity
+PASS: Session initialized
+PASS: Player and camera initialized
+PASS: Gameplay time is running
+PASS: Restart returns to level 2 after build indices changed
+PASS: Loaded Assets/Scenes/Stage3_AshenCitadel.unity
+PASS: Session initialized
+PASS: Player and camera initialized
+PASS: Gameplay time is running
+PASS: Intro can be reloaded
+PASS: Reloaded intro restores cursor and time
+PASS: Runtime smoke test completed

@@ -1,0 +1,1 @@
+PASS: 9 platform samples; maximum navmesh height error 0.0000m; complete path from courtyard across approach ramp to boss platform.

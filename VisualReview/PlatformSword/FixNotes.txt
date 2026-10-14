@@ -1,0 +1,3 @@
+Platform fix: extended TempleDais foundation to the terrain, added a solid approach ramp, and baked architecture plus terrain into saved Citadel navigation. Nine platform samples match its top surface; courtyard-to-boss navigation is complete. All six enemy spawns are within 0.025m of the new surface. During Play inspection the guardian toes stood at 7.51m, above the platform top at 7.4817m.
+
+Sword fix: both weapons use mirrored hand-local sockets derived from knuckles, with the hilt seated across each palm. Removed attack-specific world rotations and their interpolation lag. Evaluated all three attack clips at four phases each and rendered CPU-skinned pose snapshots. Saved sockets to both gameplay scenes. Grounding uses toe/sole position instead of ankle position.

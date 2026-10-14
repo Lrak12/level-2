@@ -1,0 +1,19 @@
+Stage2_Battlefield phase 4
+PASS: Player grounded before jump
+PASS: Space action accepts grounded jump
+PASS: Double jump rejected
+PASS: Airborne heavy rejected
+PASS: Jump height: 1.21m
+PASS: Jump animation and landing complete
+PASS: Landed back on the floor
+PASS: Heavy begins on the ground
+PASS: Heavy costs 25 stamina
+PASS: Recovery cannot be interrupted by action spam
+PASS: Heavy animation and recovery complete
+PASS: Heavy hits once for 70 damage despite two colliders
+PASS: Enemy behind player was not hit
+PASS: Light attack still available
+PASS: Light attack deals 35 damage
+PASS: Paused gameplay blocks all actions
+System.NullReferenceException: Object reference not set to an instance of an object
+  at ReviewPlayerControls.Tick () [0x0065b] in E:\Unity\Unity Hub\level 2\Assets\Editor\ReviewPlayerControls.cs:132 

@@ -1,0 +1,12 @@
+Attack 1 at 0.15: PASS; both hilts rigidly seated in hand sockets.
+Attack 1 at 0.35: PASS; both hilts rigidly seated in hand sockets.
+Attack 1 at 0.65: PASS; both hilts rigidly seated in hand sockets.
+Attack 1 at 0.9: PASS; both hilts rigidly seated in hand sockets.
+Attack 2 at 0.15: PASS; both hilts rigidly seated in hand sockets.
+Attack 2 at 0.35: PASS; both hilts rigidly seated in hand sockets.
+Attack 2 at 0.65: PASS; both hilts rigidly seated in hand sockets.
+Attack 2 at 0.9: PASS; both hilts rigidly seated in hand sockets.
+Attack 3 at 0.15: PASS; both hilts rigidly seated in hand sockets.
+Attack 3 at 0.35: PASS; both hilts rigidly seated in hand sockets.
+Attack 3 at 0.65: PASS; both hilts rigidly seated in hand sockets.
+Attack 3 at 0.9: PASS; both hilts rigidly seated in hand sockets.

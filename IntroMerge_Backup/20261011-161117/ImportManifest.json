@@ -1,0 +1,95 @@
+{
+  "Imports": [
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Scenes\\SampleScene.unity",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Scenes\\Intro.unity",
+      "Guid": "99c9720ab356a0642a771bea13969a05",
+      "Hash": "D6D9ED51901C14572710C983C0C204BBFE1579C2510A09909883B5DBFE0707DA"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\UI\\pngtree-ink-brush-strokes-png-image_4365596.png",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\UI\\pngtree-ink-brush-strokes-png-image_4365596.png",
+      "Guid": "df0a505c75fc20b4480744280bcfa4b9",
+      "Hash": "DDA8360F22B07BB57D3C7B5B40F6D28E39C8DAB9CB95F6DEE063D1876F599A2D"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\UI\\Fonts\\ReggaeOne-Regular SDF.asset",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\UI\\Fonts\\ReggaeOne-Regular SDF.asset",
+      "Guid": "8d2bf77621dde9c42aad97c0d86c665a",
+      "Hash": "EFD9505A90A0D35008708C9342BD5A3A1307B4F2949D014E464AEFE1FAC4D1AA"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Audio\\BackgroundMusic.mp3",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Audio\\BackgroundMusic.mp3",
+      "Guid": "763b8364d3a3b3c43add3a38de6bb5bf",
+      "Hash": "62C97AE30264C1FD2639992EADFF0AD520C7317809ECBB1152FDEE6EDBDB0BB0"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Scripts\\MenuAtmosphere.cs",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Scripts\\MenuAtmosphere.cs",
+      "Guid": "0c5a61136ceb6f145a20254290947444",
+      "Hash": "E52532E1F6F07414929B98A61F2585651D7CD3FE3331AAC3042EBEF2663B1D5F"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Controls.png",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Controls.png",
+      "Guid": "e7e7408f048006442887c787797c1c45",
+      "Hash": "AB944BCA59DB9B9BD2D3424473D140CFEBD2C1B8B5F3A87B4230C215CABF61A3"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Scripts\\MainMenu.cs",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Scripts\\MainMenu.cs",
+      "Guid": "810e00debb5715444ac554a59dae6dd8",
+      "Hash": "01B32019E3F8C42BA83DF73F4AC74DAD438CA4DE4B7E1911FA3BCD994B82D123"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\UI\\Wallpaper.png",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\UI\\Wallpaper.png",
+      "Guid": "ed92346dd0a02954abea31409946f3e7",
+      "Hash": "888A9869E9B548D8537DFD36C08828EEEE698AE2A8ADF22D9C4B1E9825028961"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Scripts\\MenuBackdropMotion.cs",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Scripts\\MenuBackdropMotion.cs",
+      "Guid": "eae03e30724b4ec4394de04e914a135b",
+      "Hash": "517ECB429B804D0459115C02C4E85EE35083793B207B5673263020EDDB4AC775"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Scripts\\OptionsMenu.cs",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Scripts\\OptionsMenu.cs",
+      "Guid": "a312271d8a8d3814aa39c118d9863e40",
+      "Hash": "65CDD3D3B1F80F83F8B97DBDD1E3364852F8CC7854F864F4F3093E796494060F"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Scripts\\UIAudio.cs",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Scripts\\UIAudio.cs",
+      "Guid": "93d4e636fd6c2ba4799ce34584b87dca",
+      "Hash": "B9C9137E3DBB53ABCB633EC73EB30B13014B7303CB841DCDC28BA542602B3E6E"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Audio\\ButtonHover.mp3",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Audio\\ButtonHover.mp3",
+      "Guid": "35b80faa4a76fb04f91bd16e8d20e5b9",
+      "Hash": "D910513BE16E890AC66738C57962663BCFF2E00213962E79BDDD43B2C964ED13"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\Audio\\ButtonClick.mp3",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\Audio\\ButtonClick.mp3",
+      "Guid": "55d17cb331f4efc458082fa5b07126d3",
+      "Hash": "A74379A358F840E8DA1BEDBC236FCC1AE51BD8F3DC7C01DA4F230B2BC047CA96"
+    },
+    {
+      "Source": "E:\\Unity\\Unity Hub\\Intro\\Assets\\UI\\Fonts\\ReggaeOne-Regular.ttf",
+      "Destination": "E:\\Unity\\Unity Hub\\level 2\\Assets\\Intro\\UI\\Fonts\\ReggaeOne-Regular.ttf",
+      "Guid": "ef5f6c65c99b07146b205a57a8264712",
+      "Hash": "257F35DEEF5ACE5DBFF8C9FFEF9ECF21ACA4D3FE423909D9D539B7282E056C06"
+    }
+  ],
+  "Reused": [
+    "E:\\Unity\\Unity Hub\\level 2\\Assets\\Settings\\SampleSceneProfile.asset",
+    "E:\\Unity\\Unity Hub\\level 2\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader"
+  ],
+  "RemappedGuids": {
+    "99c9720ab356a0642a771bea13969a05": "f1886f66abe94ed4bdce77d956b083b8"
+  }
+}

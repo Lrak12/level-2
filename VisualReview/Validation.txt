@@ -1,0 +1,9 @@
+Presentation validation
+Stage2_Battlefield: PASS; music + ambience + 18 SFX; 2 fires; 11 ambient particle systems; 4 volume effects; no missing scripts.
+Stage3_AshenCitadel: PASS; music + ambience + 18 SFX; 6 fires; 39 ambient particle systems; 4 volume effects; no missing scripts.
+
+Play-mode smoke checks: PASS
+Coast: looping music playing; combat and checkpoint SFX playing; 2 sword trails; particle feedback; audio pauses/resumes while music remains active.
+Citadel: music/rumble and 6 positional fires playing; healing pickup restored 100 health; 3 relics collected; boss activated; warning and slam clips used; boss defeat reached victory and played victory cue.
+Unity Console: no errors or exceptions after testing.
+Standalone player build and subjective listening review were not performed.
